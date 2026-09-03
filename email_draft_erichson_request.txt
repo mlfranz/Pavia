@@ -1,0 +1,18 @@
+Subject: MSCA Global Fellowship application -- need a few things from you (incl. a required letter)
+
+Hi Ben,
+
+Attached is a first draft of the letter of commitment, including a paragraph on the AI4DD / broader-impact angle as you suggested -- happy to iterate from here. A few more things I still need from your side:
+
+1. Letter of commitment: this is a hard requirement for Global Fellowships -- without it the proposal isn't even evaluated. Could you confirm you're the right person to sign on ICSI's behalf (or point me to who is), and issue the final version on ICSI letterhead/stamp? It needs to be dated after the call's publication date (9 April 2026, so any recent date works).
+
+2. Your role/title: I've used "Senior Research Scientist and Research Group Leader (Robust Deep Learning Group)" from the ICSI website -- let me know if you'd rather state it differently.
+
+3. Supervision background: a couple of sentences on your supervision experience -- any prior postdocs or MSCA fellows you've supervised, if any. This goes into the "quality of supervision" section reviewers look at.
+
+4. Anything else worth naming as a resource beyond NERSC? (No need if not -- NERSC alone is already solid.)
+
+Let me know if it's easier to just grab 15 minutes to go through this in person rather than by email.
+
+Thanks,
+Maria

@@ -1,0 +1,125 @@
+Part B2, Section 5 -- Capacity of the Participating Organisations
+================================================================
+Official structure: 5.1 one overview table for ALL organisations; 5.2
+one detailed capacity table PER organisation (max 1 page for the
+Beneficiary, max 1/2 page per Associated partner).
+
+----------------------------------------------------------------
+5.1 OVERVIEW TABLE
+----------------------------------------------------------------
+Organisation role | PIC | Legal Entity Short Name | Academic (Y/N) | Country | Supervisor
+Beneficiary | 999893752 | UNIPV | Y | Italy | Paolo Magni
+Associated partner for outgoing phase (mandatory for GF) | 996308050 | ICSI | Y | USA | Benjamin Erichson
+
+Note: UNIPV's PIC confirmed by Donato Gualtieri (Pavia research office,
+01/09/2026). ICSI's PIC confirmed by Maria (02/09/2026).
+
+----------------------------------------------------------------
+5.2a BENEFICIARY -- University of Pavia (UNIPV), Italy
+(max 1 page)
+----------------------------------------------------------------
+
+General description:
+The University of Pavia (UNIPV), founded in 1361, is one of Europe's
+oldest and most prestigious higher education institutions. Today it is
+a comprehensive, research-intensive university hosting more than 26,400
+students, including over 2,800 international students, and supported by
+approximately 1,800 academic, research and administrative staff.
+Organised into 2 Faculties and 18 Departments, UNIPV offers a highly
+multidisciplinary environment covering Life Sciences, Medicine,
+Engineering, Natural Sciences, Social Sciences and Humanities. UNIPV has
+established more than 500 international cooperation agreements
+worldwide, is an active member of the Coimbra Group, the European
+University Association (EUA) and Netval, and is a founding member of
+the EC2U -- European Campus of City-Universities Alliance. According to
+the Times Higher Education World University Rankings 2025, the
+University ranks among the 301-350 best universities worldwide, while
+the CENSIS 2024/25 ranking places it as the 2nd best large public
+university in Italy and 1st nationally for internationalisation.
+
+Role and profile of supervisor:
+[PLACEHOLDER -- Prof. Paolo Magni's own qualifications, supervision
+track record, main international collaborations -- to be supplied by
+him directly, not assumed. Also needed for Part B1 Section 1.3.]
+
+Key research facilities, infrastructure and equipment:
+Research excellence at UNIPV is supported by internationally recognised
+infrastructures, including the Centre for Health Technologies (CHT),
+EUCENTRE, the National Centre for Oncological Hadrontherapy (CNAO) and
+several state-of-the-art core facilities dedicated to advanced
+biomedical imaging, spectroscopy, mass spectrometry, high-performance
+computing and advanced manufacturing technologies.
+[PLACEHOLDER -- specific facilities/software directly relevant to THIS
+project (e.g. NONMEM/Monolix/nlmixr or other PK/PD modeling software,
+compute resources available to Magni's own group) -- the general
+university-level description above does not substitute for this;
+confirm with Magni]
+
+Previous and current involvement in EU-funded research and training
+programmes/actions/projects (up to 5 relevant ones):
+UNIPV has built an outstanding Horizon Europe/Horizon 2020 portfolio:
+51 Marie Sklodowska-Curie Actions (MSCA, 28 ongoing), 27 European
+Research Council (ERC) grants (13 ongoing), 4 ongoing European
+Innovation Council (EIC) projects, and more than 50 collaborative
+European research and innovation projects (24 ongoing), corresponding
+to a European funding portfolio exceeding EUR 40 million.
+[PLACEHOLDER -- this is an aggregate, university-wide statistic. The
+template asks for "up to 5 relevant" named projects/actions -- ideally
+ones Magni's own group or department was involved in. Ask Magni for
+5 specific, named EU/national/international projects most relevant to
+pharmacometrics/PK-PD/AI, not just the university-level total.]
+
+----------------------------------------------------------------
+5.2b ASSOCIATED PARTNER (outgoing phase, mandatory for GF) -- ICSI, USA
+(max 1/2 page)
+----------------------------------------------------------------
+
+General description: (sourced from icsi.berkeley.edu and Wikipedia --
+public info, no confirmation needed from Erichson for these facts, but
+he may want to add/adjust)
+ICSI is an independent, non-profit 501(c)(3) research institute founded
+in 1988, based in Berkeley, California, and an Affiliated Institute of
+the University of California, Berkeley. Its position adjacent to but
+administratively independent from UC Berkeley gives researchers ready
+access to campus collaborators and resources, without teaching or
+committee obligations. ICSI is internationally recognised for
+pioneering research in computer networking, speech and language
+processing, computer vision, machine learning and AI, and usable
+security and privacy, among other areas. Since 1988, it has hosted more
+than 600 visiting postdoctoral researchers and senior scientists,
+reflecting a long-standing institutional commitment to international
+research exchange -- directly relevant to this project's outgoing
+phase.
+
+Role and profile of supervisor: (sourced from ICSI's own website and
+public academic profiles -- confirm accuracy/completeness with
+Erichson, and add anything not public, e.g. prior postdoc/MSCA
+supervision experience specifically)
+Dr. N. Benjamin Erichson is a Senior Research Scientist and Research
+Group Leader, heading the Robust Deep Learning group at ICSI (also
+affiliated with Lawrence Berkeley National Laboratory). He holds a PhD
+in Statistics (University of St Andrews) and previously held positions
+as a tenure-track assistant professor (University of Pittsburgh,
+Mechanical Engineering and Materials Science) and postdoctoral
+researcher (UC Berkeley Department of Statistics; RISELab, UC Berkeley
+EECS; University of Washington, Applied Mathematics). His research
+focuses on the intersection of deep learning, dynamical systems, and
+robustness -- directly relevant to the generative-modeling and
+surrogate-model methodology at the core of this project's outgoing
+phase (Objective 1).
+[PLACEHOLDER -- his exact current title/role for the letter of
+commitment, and any prior postdoc/MSCA supervision experience, which
+public sources don't state]
+
+Key research facilities, infrastructure and equipment:
+Computational infrastructure via NERSC (National Energy Research
+Scientific Computing Center, Lawrence Berkeley National Laboratory) --
+already in active use by the applicant for this project's preliminary
+work. [PLACEHOLDER: any additional software/resources Erichson wants
+named explicitly]
+
+Previous and current involvement in EU-funded research and training
+programmes/actions/projects (up to 5 relevant ones):
+[PLACEHOLDER -- ICSI may have limited or no EU-funding history as a
+non-associated third-country organisation; if none, state that plainly
+rather than leaving blank -- confirm with Erichson/ICSI admin]

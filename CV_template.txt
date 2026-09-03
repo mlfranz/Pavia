@@ -1,0 +1,227 @@
+CV -- Part B2, Section 4 (official structure, HE MSCA PF template v5.0)
+================================================================
+Populated from your two uploaded CV drafts, the Doktorurkunde, and your
+direct answers (dates, nationality, funding, mentoring, etc.). CONFIRMED
+complete by Maria -- publication significance notes and the Boehringer
+Ingelheim deliverable line both reviewed and approved. Nothing left
+open in this document from your side; remaining work is portal
+formatting/consistency checks only.
+
+OFFICIAL REQUIREMENTS -- READ BEFORE FINALIZING:
+- Indicative length: 5 pages.
+- ALL dates in format dd/mm/yyyy.
+- Must be fully consistent with Part A.
+- Any career gap must be explicitly explained.
+
+RESOLVED from the Doktorurkunde:
+- Viva (mundliche Prufung): 25/11/2025.
+- Formal degree award (certificate date, Aachen): 15/12/2025 -- this
+  confirms "12/2025" from your newer CV was correct; "10/2025" in the
+  Education section was just the outdated original estimate.
+- Degree: Doktorin der Naturwissenschaften (Dr. rer. nat.), overall
+  grade "sehr gut".
+- Supervisors/examiners: Univ.-Prof. Dr.-Ing. Lars Mathias Blank and
+  Univ.-Prof. Dr. rer. nat. Lars Kupfer (RWTH Aachen).
+- Dissertation title (matches your CV's "publication" #4, confirming
+  that entry IS the doctoral thesis, not a separate journal paper):
+  "Retinal physiologically based pharmacokinetic modeling of
+  intravitreally administered large molecules across species."
+- Full legal name on the certificate: Maria Lena Walburga Franz -- use
+  this exact form if Part A asks for your full legal name.
+
+RESOLVED: the PhD-end-to-ICSI-start gap is actually only ~6-7 weeks
+(award 15/12/2025 to ICSI start 01/02/2026), not the 2-4 months
+originally estimated before exact dates were known -- easily covered by
+thesis finalization plus visa/relocation prep over the December
+holidays. See the bridging line below.
+
+RESOLVED: all exact days filled in per your instruction (1st of month
+for start dates, last day of month for end dates, since exact days
+weren't otherwise available). If you have documentation with the true
+exact dates later, swap these in -- they're deliberate approximations,
+not verified facts.
+
+RESOLVED: nationality = German. ORCID omitted per your instruction (not
+required per the official guide anyway).
+
+----------------------------------------------------------------
+a) NAME
+Maria Lena Walburga Franz (full legal name per Doktorurkunde; CVs use
+"Maria Franz")
+
+----------------------------------------------------------------
+b) PROFESSIONAL EXPERIENCE (most recent first, dd/mm/yyyy)
+----------------------------------------------------------------
+01/02/2026 - present: Postdoctoral Fellow, International Computer
+Science Institute (ICSI), Berkeley, CA, USA. AI for drug discovery
+(DAAD-funded, 1-year fellowship). Evaluating drug generative AI models
+based on ADMET properties and physiologically based pharmacokinetic
+models.
+
+16/12/2025 - 31/01/2026: thesis finalization, and relocation/visa
+preparation for the outgoing move to the United States.
+
+01/02/2022 - 15/12/2025: PhD Student (employed via industry-academia
+collaboration contract), Boehringer Ingelheim & RWTH Aachen. Ocular
+mechanistic/physiologically based pharmacokinetic modeling for
+biologics. Developed ODE-based algorithms in R and PK-Sim/MoBi; managed
+cross-departmental projects within an interdisciplinary team; applied
+modeling and simulation for study design and decision-making. Viva:
+25/11/2025; degree formally awarded 15/12/2025 (Dr. rer. nat., "sehr
+gut").
+
+01/03/2021 - 31/01/2022: TKTD Modeler, Helmholtz Center Leipzig.
+Toxicokinetic and toxicodynamic modeling of environmental chemicals in
+zebrafish embryo. Modeling and simulation in Matlab SimBiology;
+designed and planned toxicokinetic/toxicodynamic experiments.
+
+01/07/2020 - 28/02/2021: Clinical Data Analyst, LMU Clinic Munich.
+Analysis of predisposing factors in antipsychotic treatment. Data
+analysis using regression, decision trees, random forests; bioinformatic
+analysis of genetic data; collaborated with clinicians and
+bioinformaticians.
+
+Also concurrent with the PhD:
+01/10/2022 - 31/05/2025: Graduate Research Training Program PharMetrX
+(pharmacometrics and computational disease modeling), FU Berlin &
+University of Potsdam -- a selective, industry-academia-funded doctoral
+training program in pharmacometrics.
+
+----------------------------------------------------------------
+c) EDUCATION (most recent first, dd/mm/yyyy, incl. PhD award date)
+----------------------------------------------------------------
+PhD (Dr. rer. nat.), RWTH Aachen University, in collaboration with
+Boehringer Ingelheim. "Retinal physiologically based pharmacokinetic
+modeling of intravitreally administered large molecules across
+species." Viva: 25/11/2025. Formally awarded: 15/12/2025. Supervisors/
+examiners: Univ.-Prof. Dr.-Ing. Lars Mathias Blank, Univ.-Prof. Dr. rer.
+nat. Lars Kupfer. Overall grade: sehr gut.
+[Note: these supervisor names should also be cross-referenced into
+Part B1 Section 1.4, which currently doesn't name them]
+
+B.Sc. and M.Sc. in Chemistry and Biochemistry, LMU Munich.
+01/10/2014 - 31/07/2020.
+
+----------------------------------------------------------------
+PUBLICATIONS
+----------------------------------------------------------------
+- Franz, M., et al. "Association of Clinical Parameters and Polygenic
+  Risk Scores for Body Mass Index, Schizophrenia, and Diabetes with
+  Antipsychotic-Induced Weight Gain." Journal of Psychiatric Research,
+  169 (2024): 184-190. Open access. Significance: combines clinical and
+  genetic (polygenic risk score) data to help identify which patients
+  are most susceptible to antipsychotic-induced weight gain, supporting
+  more personalized dosing and monitoring decisions.
+- Franz, M., et al. "PBPK-Based Translation from Preclinical Species to
+  Humans for the Full-Size IgG Therapeutic Efalizumab." Frontiers in
+  Pharmacology, 15 (2024): 1418870. Open access. Significance:
+  demonstrates cross-species PBPK translation for a full-size
+  therapeutic antibody, a direct methodological precedent for
+  translating large-molecule pharmacokinetics from animal models to
+  human dose prediction.
+- Jairam, R. K., Franz, M., Hanke, N., & Kuepfer, L. (2024).
+  "Physiologically based pharmacokinetic models for systemic
+  disposition of protein therapeutics in rabbits." Frontiers in
+  Pharmacology, 15, 1427325. Open access. Significance: extends PBPK
+  modeling of protein therapeutics to an additional preclinical species
+  (rabbit), broadening the cross-species translational framework this
+  applicant's own PhD work builds on.
+- Jairam, R. K., Franz, M., Hanke, N., Rimpela, A.-K., & Kuepfer, L.
+  "Modelling of ocular pharmacokinetics of protein therapeutics in
+  rabbits and monkeys after intravitreal administration." Submitted to
+  Molecular Pharmaceutics (Manuscript ID mp-2026-00717v), currently
+  under review. Significance: extends ocular/intravitreal PBPK modeling
+  of protein therapeutics across two preclinical species (rabbit and
+  monkey), complementing this applicant's own PhD work on intravitreal
+  PBPK modeling of large molecules.
+[NOT a separate publication -- confirmed via the Doktorurkunde this is
+the doctoral thesis itself. List it under Education (see above), not
+here: Franz, M. "Retinal physiologically based pharmacokinetic
+modeling of intravitreally administered large molecules across
+species." Doctoral thesis, RWTH Aachen University, No.
+RWTH-2025-10319, 2025.]
+- Franz, M., et al. "Injected Eye, Fellow Eye and Systemic
+  Pharmacokinetic Modeling of Intravitreally Administered Bevacizumab."
+  Molecular Pharmaceutics, 23.5 (2026): 3051-3061. Open access.
+  Significance: extends ocular PBPK modeling beyond the injected eye to
+  also capture fellow-eye and systemic exposure after intravitreal
+  dosing -- the methodological foundation this applicant's PhD thesis
+  builds on.
+- Franz, M., et al. "Are AI-Generated Compounds Toxic? A PBPK-Aware
+  Audit of Generative Drug Design." Manuscript in preparation; planned
+  submission to the AI4DD workshop, NeurIPS 2026. [This is the
+  preliminary work underpinning this entire proposal (Part B1 Section
+  1.2) -- listing it honestly as "in preparation" rather than
+  "submitted" is important, since it isn't submitted yet]
+
+----------------------------------------------------------------
+INVITED PRESENTATIONS (internationally established conferences/schools)
+----------------------------------------------------------------
+None to date.
+
+----------------------------------------------------------------
+ORGANISATION OF INTERNATIONAL CONFERENCES (steering/programme committee)
+----------------------------------------------------------------
+None to date.
+
+----------------------------------------------------------------
+RESEARCH EXPEDITIONS LED
+----------------------------------------------------------------
+Not applicable.
+
+----------------------------------------------------------------
+GRANTED PATENTS
+----------------------------------------------------------------
+None to date.
+
+----------------------------------------------------------------
+PARTICIPATION IN INDUSTRIAL INNOVATION
+----------------------------------------------------------------
+PhD conducted in industry collaboration with Boehringer Ingelheim
+(ocular PBPK modeling of biologics), including cross-departmental
+project management within an interdisciplinary industry-academia team.
+Delivered a validated retinal/systemic PBPK model for intravitreally
+administered biologics (demonstrated on bevacizumab), directly usable
+by Boehringer Ingelheim for dose-prediction and translational
+decision-making in ocular biologic drug development.
+
+----------------------------------------------------------------
+PRIZES AND AWARDS
+----------------------------------------------------------------
+Erasmus Scholarship, University of Bari, Italy, 2016-2017 (competitive,
+merit-based).
+Erasmus Scholarship, University of Barcelona, 2019 (competitive,
+merit-based).
+
+----------------------------------------------------------------
+FUNDING RECEIVED SO FAR
+----------------------------------------------------------------
+- DAAD postdoctoral research fellowship, ICSI Berkeley, 1-year
+  duration, since 01/02/2026.
+- PhD position funded via employment contract, industry-academia
+  collaboration between Boehringer Ingelheim and RWTH Aachen,
+  01/02/2022 - 15/12/2025.
+(Erasmus Scholarships listed under Prizes and Awards above, not
+repeated here.)
+
+----------------------------------------------------------------
+SUPERVISING AND MENTORING ACTIVITIES
+----------------------------------------------------------------
+Since starting the postdoc at ICSI, providing informal research support
+to a PhD student at the Technical University of Munich (TUM) during an
+unofficial collaboration/research visit, on PBPK modeling for
+AI-generated compounds.
+
+----------------------------------------------------------------
+OTHER ITEMS OF INTEREST
+----------------------------------------------------------------
+Nationality: German.
+Languages: German (native), English (fluent), Italian (fluent),
+Spanish (intermediate).
+Technical skills: Python, R, MATLAB; PK-Sim/MoBi, Monolix; Git, LaTeX.
+Training: Lyon Summer School for Toxicological Modeling (2021).
+ORCID: not provided (not required per the official guide).
+
+================================================================
+Consistency check before submission: every date here must match Part A
+exactly, with the exact day filled in.

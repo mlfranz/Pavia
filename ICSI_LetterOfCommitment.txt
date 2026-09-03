@@ -1,0 +1,17 @@
+[ICSI letterhead]
+
+Letter of Commitment
+Marie Sklodowska-Curie Postdoctoral Fellowship - Global Fellowship, Call HORIZON-MSCA-2026-PF-01
+Proposal acronym: PBPK4AIDD
+Applicant: Maria Franz
+
+I undersigned Benjamin Erichson, in my quality of Senior Research Scientist and Research Group Leader (Robust Deep Learning Group), in the International Computer Science Institute (ICSI), commit to set up all necessary provisions to participate as associated partner for the outgoing phase in the proposal PBPK4AIDD submitted to the call HORIZON-MSCA-2026-PF-01, should the proposal be funded.
+
+On behalf of ICSI, I also confirm that we will participate and contribute to the research, innovation and training activities as planned in this project. In particular, ICSI will host Maria Franz as outgoing-phase associated partner for 18 months, during which I will act as her scientific supervisor for Work Packages 1 and 2 (building the PBPK surrogate model and integrating it into generative optimization). ICSI will provide computational infrastructure via NERSC (already in active use for this work), office space, access to the research group and seminar series, and mentoring/supervision time necessary for carrying out these objectives.
+
+This project sits at a meaningful intersection of AI for Drug Discovery and broader societal impact: making mechanistic pharmacokinetic behavior an explicit part of how AI-generated drug candidates are optimized -- rather than a downstream check applied only after generation -- has real potential to reduce the number of computationally promising but ultimately unsuitable candidates that advance into costly, time-consuming later-stage development. ICSI is glad to support research that connects machine learning methods with this kind of translational, human-health-relevant impact.
+
+I hereby declare that I am entitled to commit into this process the entity I represent.
+
+Name, Date, Signature
+Benjamin Erichson

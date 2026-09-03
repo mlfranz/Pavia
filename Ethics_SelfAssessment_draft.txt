@@ -1,0 +1,52 @@
+Ethics Self-Assessment -- Draft answers (Part A, Ethics section)
+================================================================
+NOTE: This is a DRAFT based on the project as described to me (purely
+computational: generative molecular design + PBPK simulation, no wet-lab
+work, no human or animal subjects, no personal data collection). Confirm
+every answer against the actual portal ethics questionnaire before
+submitting -- the exact question wording/numbering changes between calls,
+and only you can confirm nothing else in the real work plan triggers a
+"yes".
+
+Human subjects / human cells or tissue: NO
+  Rationale: project uses only computational/in-silico generation and
+  simulation of molecular structures; no human participants, human
+  biological samples, or human cell lines are involved.
+
+Animals: NO
+  Rationale: no animal studies are planned; PBPK simulation uses
+  physiological parameter databases within the simulation software, not
+  new animal experiments.
+
+Personal data: LIKELY NO, CONFIRM
+  Rationale: no personal/participant data is collected. If any
+  bibliometric/co-author data or survey of researchers is added later
+  (e.g. for the career-development or dissemination plan), this may need
+  to change to YES with a short data-management note -- confirm against
+  final work plan.
+
+Non-EU countries (third countries) involvement: YES
+  Rationale: outgoing phase hosted at ICSI, Berkeley, USA (non-associated
+  third country) -- this is expected and standard for a Global
+  Fellowship, and the questionnaire will ask you to confirm compliance
+  with local ethics/legal requirements at the third-country host.
+  [PLACEHOLDER: confirm ICSI's own institutional research-conduct
+  policies, if the portal asks for a specific statement]
+
+Dual use / misuse potential: NO, CONFIRM
+  Rationale: the project designs and evaluates computational methods for
+  drug candidate optimization (a defensive/beneficial research
+  application); no dual-use technology (e.g. select agents, systems
+  with foreseeable weaponization potential) is developed or handled.
+  [PLACEHOLDER: if reviewers historically raise generative-AI-for-drug-
+  design dual-use concerns in this specific call, prepare one sentence
+  addressing it even if the checkbox is "no" -- ask Magni whether this is
+  common in MSCA pharma-adjacent panels]
+
+Environmental / other: NO
+
+================================================================
+This draft assumes the project stays purely computational as scoped in
+Part B1. If any wet-lab validation, industry data-sharing agreement (e.g.
+with Boehringer Ingelheim), or human-subjects component is added later,
+revisit every answer above.

@@ -1,0 +1,26 @@
+Part B2, Section 8 -- Environmental considerations (MSCA Green Charter)
+================================================================
+Official limit: max 1/2 page. New requirement I had missed entirely
+before reading the official template -- there was no draft of this
+before now.
+
+DRAFT:
+As a purely computational project, the largest environmental footprint
+is compute usage (PBPK simulation runs and generative-model/surrogate
+training) and international travel between the outgoing and return
+hosts. The project will mitigate this by: (1) reusing the approximately
+1,979 pool-scale PBPK simulations already generated during the
+preliminary DAAD-funded audit rather than re-running them, and by
+using a trainable surrogate specifically to avoid full PBPK simulation
+inside the generative optimization loop (Section 1.2/3.1), reducing
+compute relative to a naive full-simulation approach; (2) preferring
+remote collaboration between the outgoing and return hosts for routine
+supervision and coordination, reserving in-person travel for the
+mobility transitions themselves (outgoing-to-return phase) and events
+where in-person participation is materially valuable (e.g., conference
+presentations); (3) following both institutions' own sustainability/
+green-lab practices where applicable.
+
+[TO CONFIRM: whether ICSI or Pavia have their own formal green-lab/
+sustainability policies to cite here specifically, rather than the
+generic statement above -- ask Erichson/Magni]

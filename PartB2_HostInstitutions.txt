@@ -1,0 +1,9 @@
+SUPERSEDED -- see PartB2_Section5_Organizations.txt
+================================================================
+This file was a rough placeholder before I had read the official MSCA
+PF Part B template. The official template requires the UNIPV/ICSI
+descriptions in a specific table structure (Section 5.1 overview +
+5.2 per-organisation capacity table), not free text. That structure,
+with the UNIPV text correctly placed into its required subfields, is
+now in PartB2_Section5_Organizations.txt in this same folder. Use that
+file; this one is kept only so nothing is silently lost.

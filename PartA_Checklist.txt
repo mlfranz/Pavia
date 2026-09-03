@@ -1,0 +1,101 @@
+Part A -- Administrative Forms Checklist (EU Funding & Tenders Portal)
+================================================================
+Part A is filled in as online forms on the Portal, not a standalone file
+you write ahead of time -- but you can prepare every answer in advance so
+the portal session itself is fast. Fields typically requested:
+
+ACCESS / ROLES
+[ ] Your EU Login account created
+[ ] Benjamin Erichson's EU Login / role as outgoing supervisor confirmed
+[ ] Paolo Magni's EU Login / role as return-phase supervisor confirmed
+[x] Pavia's PIC: 999893752 (confirmed by Donato Gualtieri, Pavia
+    research office, email dated 01/09/2026)
+[x] Add as Participant Contacts on the portal: Dr. Sofia Baggini
+    (sofia.baggini@unipv.it) and Donato Gualtieri
+    (donato.gualtieri@unipv.it) -- use "Participant Contact" role with
+    full access, not a restricted/team-member-only role, so they can
+    actively support and edit the proposal as UNIPV's representatives
+[x] Pavia confirms: NO internal deadline / no major formalities in the
+    proposal phase -- the 9 Sept EU deadline is the only deadline that
+    matters on Pavia's side
+[x] ICSI's PIC: 996308050 (confirmed by Maria, 02/09/2026)
+
+PROJECT DATA (confirmed against the official "Guide for Applicants,
+MSCA PF 2026" v1.0, 09/04/2026 -- saved in this folder as
+Guide_for_Applicants_MSCA_PF_2026.pdf)
+[ ] Project title: "PBPK-Guided Generative Drug Design: From Static
+    Molecular Properties to Time-Resolved In Vivo Optimization"
+[x] Acronym: PBPK4AIDD (9/20 chars -- echoes the paper's AI4DD workshop venue)
+[x] Short Summary (1996/2000 chars) -- drafted, see Short_Summary_PartA.txt.
+    NOTE: this abstract becomes PUBLIC if the project is funded -- already
+    checked, nothing sensitive in it.
+[ ] Keywords: NOT free text -- the portal requires 3 to 5 keywords chosen
+    from the official MSCA keyword list, each picked at 3 levels (Panel ->
+    sub-area -> descriptor). The first 2 must be within your chosen panel;
+    keywords 3-5 can come from any of the 8 panels. Look up the actual MSCA
+    keyword list on the REA website before the portal session -- don't
+    improvise free-text terms.
+[~] Panel/research field selection: 8 official panels are CHE, SOC, ECO,
+    ENG (Information Science and Engineering -- NOT "INF"), ENV, LIF, MAT,
+    PHY. Set to LIF (Life Sciences) for now -- NOT yet confirmed with
+    Magni; CHE is the fallback if he advises otherwise.
+[ ] Fellowship type: Global Postdoctoral Fellowship
+[ ] Outgoing host (associated partner, must be encoded in Part A): ICSI,
+    Berkeley, USA
+[ ] Return host (beneficiary): University of Pavia, Italy
+[x] Duration: 18 months outgoing + 12 months mandatory return phase = 30
+    months -- CONFIRMED by Maria (within the official 24-36 month range
+    for Global Fellowships)
+[ ] IMPORTANT (Guide p.16): do NOT fill in publications, previous
+    projects, or infrastructure lists in Part A itself -- if entered there
+    they are disregarded by evaluators. This content belongs only in Part
+    B2 Section 5 (already handled correctly in PartB2_Section5_Organizations.txt).
+[ ] ORCID: searched the official guide -- NOT mentioned anywhere, so NOT
+    a hard requirement. Optional but free/fast to get at orcid.org if you
+    don't have one.
+
+ETHICS
+[ ] Ethics self-assessment answers (see Ethics_SelfAssessment_draft.txt)
+
+BUDGET
+[ ] Unit costs auto-calculated by the portal from duration + country
+    coefficients -- you do not enter amounts manually. Note: the
+    official Part B template has NO budget narrative section anywhere
+    in Part B1 or B2 -- budget is portal-only.
+
+FORMATTING RULES FOR PART B1/B2 PDFs (confirmed from the official
+template -- already applied in PartB1_Technical_Proposal.pdf):
+[x] A4, margins >=15mm
+[x] Times New Roman (or Times/Nimbus Roman), min 11pt body text
+[x] No cover page, no table of contents
+[ ] Export as PDF, Adobe version 3+, WITH EMBEDDED FONTS -- check this
+    specifically when you do the final export, both parts are rejected
+    by the portal otherwise
+[x] Part B1: Gantt chart included (counts toward the 10-page limit)
+
+ATTACHMENTS TO UPLOAD
+[ ] Part B1 PDF (Excellence/Impact/Implementation + Gantt chart, max 10
+    pages, NO hyperlinks -- the guide says any hyperlinks in Part B1 are
+    disregarded by evaluators) -- see PartB1_Technical_Proposal.pdf
+[ ] Part B2 PDF, assembled from: Section 4 CV (CV_template.txt),
+    Section 5 org capacity (PartB2_Section5_Organizations.txt),
+    Section 6 ethics (only if needed beyond Part A, likely N/A),
+    Section 7 security (only if you answered yes to a security
+    question in Part A, likely N/A), Section 8 Green Charter
+    (PartB2_Section8_GreenCharter.txt), Section 9 letter of commitment
+    (scanned, see below), and a NEW required closing item: a declaration
+    on generative-AI use (PartB2_AI_Disclosure.txt) -- these are
+    currently separate files and need to be combined into ONE Part B2
+    PDF before submission
+[ ] Letter of commitment from ICSI (Erichson) -- MANDATORY for Global
+    Fellowships; its absence makes the whole proposal INADMISSIBLE
+    (not just penalised). See ICSI_LetterOfCommitment_template.txt.
+[ ] Generative-AI declaration at the end of Part B2 -- MANDATORY per the
+    official guide if AI was used in preparing the proposal (it was,
+    extensively, in this case) -- see PartB2_AI_Disclosure.txt, review
+    and finalize before submission.
+
+DEADLINE-CRITICAL, STILL OPEN (see README_TODO.txt)
+[x] Pavia's internal submission deadline -- RESOLVED: none exists
+[ ] ICSI letter of commitment obtained, dated after call publication,
+    signed by someone entitled to commit ICSI

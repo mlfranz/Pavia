@@ -1,0 +1,95 @@
+DRAFT -- Letter of Commitment, ICSI Berkeley (outgoing partner organisation)
+================================================================
+THIS DOCUMENT IS ADMISSIBILITY-CRITICAL, NOT OPTIONAL.
+Per the official Part B template, Section 9: "For GF proposals the
+absence of a letter of commitment will render the proposal
+INADMISSIBLE and the proposal will not be evaluated." Get this from
+Erichson early -- it is not a nice-to-have supporting document, it is a
+hard submission requirement.
+
+Official minimum requirements for this letter:
+- Must be on ICSI letterhead or carry ICSI's stamp.
+- Must be an up-to-date document -- NOT dated before the call
+  publication date.
+- Must demonstrate the will to actively participate in THIS specific
+  proposal (reference the proposal number and/or acronym once known --
+  acronym is PBPK4AIDD, see PartA_Checklist.txt).
+- Must explain ICSI's precise role.
+- Must be signed by someone entitled to commit ICSI (Erichson should
+  confirm he has that authority, or route it through whoever does).
+
+NOTE: This is a draft for Dr. Benjamin Erichson to review, adjust, and
+issue on ICSI letterhead -- it should not be submitted as-is under your
+own authorship. Everything institution-specific is a placeholder for him
+to fill in or correct. Wording below follows the official non-binding
+template example as closely as possible.
+
+--------------------------------------------------------------
+
+[ICSI letterhead]
+
+Letter of Commitment
+Marie Skłodowska-Curie Postdoctoral Fellowship -- Global Fellowship,
+Call HORIZON-MSCA-2026-PF-01
+Proposal acronym: PBPK4AIDD
+Applicant: Maria Franz
+
+I undersigned Benjamin Erichson, in my quality of Senior Research
+Scientist and Research Group Leader (Robust Deep Learning Group), in
+the International Computer Science Institute (ICSI), commit to set up
+all necessary provisions to participate as associated partner for the
+outgoing phase in the proposal PBPK4AIDD submitted to the call
+HORIZON-MSCA-2026-PF-01, should the proposal be funded.
+[Title sourced from icsi.berkeley.edu -- Erichson should confirm this
+is how he wants it stated, or correct it]
+
+On behalf of ICSI, I also confirm that we will participate and
+contribute to the research, innovation and training activities as
+planned in this project. In particular, ICSI will host Maria Franz as
+outgoing-phase associated partner for 18 months, during which I will
+act as her scientific supervisor for Work Packages 1 and 2 (building
+the PBPK surrogate model and integrating it into generative
+optimization, per Part B1 Section 3.1). ICSI will provide computational
+infrastructure via NERSC (already in active use for this work), office
+space, access to the research group and seminar series, and
+mentoring/supervision time necessary for carrying out these objectives.
+[PLACEHOLDER: any additional specific software licenses or resources
+Erichson wants named explicitly]
+
+This project sits at a meaningful intersection of AI for Drug Discovery
+and broader societal impact: making mechanistic pharmacokinetic
+behavior an explicit part of how AI-generated drug candidates are
+optimized -- rather than a downstream check applied only after
+generation -- has real potential to reduce the number of computationally
+promising but ultimately unsuitable candidates that advance into
+costly, time-consuming later-stage development. ICSI is glad to support
+research that connects machine learning methods with this kind of
+translational, human-health-relevant impact.
+[DRAFT -- this paragraph responds directly to Ben's own framing request
+("intersection of AI4DD and the greater good of your research"); it's
+meant as a starting point for him to personalize in his own voice, not
+a final version]
+
+I hereby declare that I am entitled to commit into this process the
+entity I represent.
+
+Name, Date, Signature
+Benjamin Erichson
+
+--------------------------------------------------------------
+STATUS: Ben has replied (02/09/2026) -- he wants Maria/Claude to draft
+a full version, with a paragraph on "the intersection of AI4DD and the
+greater good of your research," and he'll iterate from there. That
+paragraph is now drafted above (marked [DRAFT]) -- send this version to
+him next rather than the bare admin-only version.
+
+TODO still remaining:
+[x] Duration confirmed: 18 months.
+[x] NERSC confirmed: already in active use via ICSI.
+[x] "Greater good" framing paragraph drafted per Ben's request.
+- Ask Ben to personalize/rewrite the framing paragraph in his own voice
+  if he wants, confirm his exact title, add any further resources he
+  wants named, and confirm he is entitled to sign on ICSI's behalf (or
+  knows who is)
+- must be dated AFTER the call publication date, on ICSI letterhead/
+  stamp, and uploaded as a scanned copy per the official instructions

@@ -1,0 +1,20 @@
+Dear Professor Magni,
+
+A few more things I need from you for Part B1/B2 before this is submission-ready -- sorry for the growing list, happy to hop on a quick call instead if that's easier.
+
+1. Scientific Panel: I'm currently planning to submit under LIF (Life Sciences). Is that the panel pharmacometrics/PBPK proposals from your group normally go under, or would you recommend CHE (Chemistry) or ENG (Information Science and Engineering) instead? This determines who reviews the proposal.
+
+2. Your own supervision background: a short paragraph on your supervision experience, main international collaborations, and (especially relevant here) any prior MSCA fellows you've hosted. This goes into Part B1 Section 1.3 and Part B2 Section 5.2.
+
+3. Up to 5 named projects (as I asked before, repeating here for completeness): EU, national, or international research/training projects your own group has run or is running -- acronym/title, funding programme, and your role. Previous MSCA fellowships you've hosted would be especially valuable here.
+
+4. Specific facilities: what software/computing resources does your group actually use for PK/PD modeling (e.g. NONMEM, Monolix, nlmixr, or similar) that would support this project specifically? The general UNIPV-level description you sent doesn't cover this.
+
+5. Hosting arrangements: anything concrete on office space, onboarding, or how supervision/mentoring would work during the return phase.
+
+6. Duration: I'm planning 18 months at ICSI + the mandatory 12-month return phase at Pavia (30 months total). Does that timeline work on your end, or would you want to discuss adjusting it?
+
+Thank you again for all your help so far -- Donato and Sofia have already been extremely responsive.
+
+Best regards,
+Maria Franz

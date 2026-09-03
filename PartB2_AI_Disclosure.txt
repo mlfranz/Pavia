@@ -1,0 +1,36 @@
+Part B2 -- Declaration on the use of Generative AI (required, end of Part B2)
+================================================================
+OFFICIAL REQUIREMENT (Guide for Applicants, MSCA PF 2026, p.18):
+"If generative AI is employed in the preparation of the proposal, you
+should provide an explanation at the end of Part B-2, detailing which
+AI tool was used, for which purpose, and the specific sections of the
+proposal to which it was applied."
+This was missed in earlier drafts of this folder -- it is not optional.
+
+DRAFT DECLARATION:
+
+Use of generative AI in the preparation of this proposal
+
+Claude (Anthropic) was used as a drafting and editing assistant during
+the preparation of this proposal, applied to: structuring and drafting
+prose in Part B1 (Sections 1-3, including the Gantt chart layout) and
+Part B2 (Sections 4 CV formatting, 5 organisational capacity tables, 8
+Green Charter statement); consolidating factual material already
+provided by the applicant (CV drafts, doctoral certificate) into the
+required template structure; and locating and summarising publicly
+available information
+about the participating organisations (University of Pavia, ICSI) and
+supervisors from their own institutional websites and public academic
+profiles.
+
+All scientific content, methodology, objectives, and claims about the
+applicant's own background and preliminary results originate from the
+applicant's own research (detailed in Part B1 Section 1.2) and were
+reviewed and validated by the applicant, consistent with the official
+guidance on responsible use of generative AI in proposal preparation.
+No content was submitted without applicant review and verification.
+
+[PLACEHOLDER -- review and adjust this description to accurately
+reflect your own actual use, and confirm it before submission. Also
+double-check whether the ICSI/UNIPV sides used any AI tools themselves
+that should be disclosed alongside this.]

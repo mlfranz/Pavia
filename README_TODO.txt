@@ -6,6 +6,15 @@ MSCA Global Postdoctoral Fellowship 2026 application (EU deadline:
 "Guide for Applicants, MSCA PF 2026" (Guide_for_Applicants_MSCA_PF_2026.pdf,
 both in this folder) -- read those directly for the source of truth.
 
+GIT STATUS (03/09/2026): this folder is now its own local git repo
+(no GitHub remote yet -- Maria will create a private repo later). As a
+temporary backup until that remote exists, the same 18 Claude-authored
+files were also pushed to the ht_ospsuite repo (commit "Temporarily
+re-add Pavia/ application drafts as backup"). ONCE THIS REPO HAS ITS
+OWN REMOTE AND IS PUSHED: remove Pavia/ from ht_ospsuite again (git rm
+-r --cached Pavia/, commit, push) so it isn't duplicated across both
+repos long-term.
+
 ----------------------------------------------------------------
 NEXT STEPS FOR MARIA, IN ORDER
 ----------------------------------------------------------------

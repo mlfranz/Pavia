@@ -54,9 +54,22 @@ b) PROFESSIONAL EXPERIENCE (most recent first, dd/mm/yyyy)
 ----------------------------------------------------------------
 01/02/2026 - present: Postdoctoral Fellow, International Computer
 Science Institute (ICSI), Berkeley, CA, USA. AI for drug discovery
-(DAAD-funded, 1-year fellowship). Evaluating drug generative AI models
-based on ADMET properties and physiologically based pharmacokinetic
-models.
+(DAAD-funded, 1-year fellowship), supervised by Dr. N. Benjamin
+Erichson.
+- Designed and ran a PBPK simulation layer (OSPSuite/PK-Sim), combining
+  ADMET-AI-predicted ADME parameters with Chemprop D-MPNN potency/
+  toxicity models, to audit three structurally distinct AI drug-design
+  pipelines (a docking-guided diffusion model, an RL-fine-tuned RNN,
+  and a seed-based lead-optimization transformer) targeting PARP1.
+- Developed an iterative dose-escalation algorithm to compute
+  individualized minimum effective dose (MED) and an uncertainty-aware
+  safety-tier classification framework (hERG/PARP2 margins), applied
+  across thousands of AI-generated candidates.
+- Found that static, conventional evaluation criteria systematically
+  fail to surface pharmacokinetically favorable candidates -- results
+  in preparation for the AI4DD workshop, NeurIPS 2026 (see Publications).
+- This audit is the preliminary work underpinning the present MSCA
+  Global Fellowship proposal.
 
 16/12/2025 - 31/01/2026: thesis finalization, and relocation/visa
 preparation for the outgoing move to the United States.

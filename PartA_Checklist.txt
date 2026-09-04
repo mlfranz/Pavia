@@ -37,8 +37,10 @@ Guide_for_Applicants_MSCA_PF_2026.pdf)
     improvise free-text terms.
 [~] Panel/research field selection: 8 official panels are CHE, SOC, ECO,
     ENG (Information Science and Engineering -- NOT "INF"), ENV, LIF, MAT,
-    PHY. Set to LIF (Life Sciences) for now -- NOT yet confirmed with
-    Magni; CHE is the fallback if he advises otherwise.
+    PHY. Asked Magni (04/09/2026) -- he did NOT resolve it: his group
+    normally applies under ENG "because we are engineers" but says he's
+    "not sure it's the best solution" for this interdisciplinary
+    project. Genuinely Maria's own call now between LIF/ENG/CHE.
 [ ] Fellowship type: Global Postdoctoral Fellowship
 [ ] Outgoing host (associated partner, must be encoded in Part A): ICSI,
     Berkeley, USA

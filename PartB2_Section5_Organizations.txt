@@ -21,53 +21,76 @@ Note: UNIPV's PIC confirmed by Donato Gualtieri (Pavia research office,
 
 General description:
 The University of Pavia (UNIPV), founded in 1361, is one of Europe's
-oldest and most prestigious higher education institutions. Today it is
-a comprehensive, research-intensive university hosting more than 26,400
-students, including over 2,800 international students, and supported by
-approximately 1,800 academic, research and administrative staff.
-Organised into 2 Faculties and 18 Departments, UNIPV offers a highly
-multidisciplinary environment covering Life Sciences, Medicine,
-Engineering, Natural Sciences, Social Sciences and Humanities. UNIPV has
-established more than 500 international cooperation agreements
-worldwide, is an active member of the Coimbra Group, the European
-University Association (EUA) and Netval, and is a founding member of
-the EC2U -- European Campus of City-Universities Alliance. According to
-the Times Higher Education World University Rankings 2025, the
-University ranks among the 301-350 best universities worldwide, while
-the CENSIS 2024/25 ranking places it as the 2nd best large public
-university in Italy and 1st nationally for internationalisation.
+oldest and most prestigious higher education institutions, organised
+into 18 Departments with some 24,000-26,400 students and roughly 1,000
+faculty members (recognised by the European Commission as a Jean Monnet
+European Centre of Excellence). UNIPV will participate in this project
+through the Bioinformatics, Mathematical Modelling and Synthetic
+Biology (BMS) laboratory (http://lab-bioinfo.unipv.it), part of the
+Department of Electrical, Computer and Biomedical Engineering. Over the
+last 20 years, the BMS lab has become one of the leading European
+groups in modeling and simulation to support drug development,
+combining mathematical modeling (including PK/PD and PBPK modeling),
+data mining, model identification and computer science, closely linked
+to UNIPV's Master's programme in Bioengineering and PhD programme in
+Bioengineering, Bioinformatics and Health Technologies.
+[TRIM NOTE: this section is over the informal target length once
+combined with the rest of 5.2a below -- when assembling the final PDF,
+this paragraph is the easiest to shorten further if the 1-page limit is
+tight, since the lab-specific content below is more evaluative-relevant
+than the university-level statistics]
 
 Role and profile of supervisor:
-[PLACEHOLDER -- Prof. Paolo Magni's own qualifications, supervision
-track record, main international collaborations -- to be supplied by
-him directly, not assumed. Also needed for Part B1 Section 1.3.]
+Prof. Paolo Magni (Full Professor of Bioengineering, UNIPV; PhD in
+Bioengineering, 1998) is Director of the BMS Lab and has taught
+mathematical modeling of biological systems, physiology, statistics,
+bioinformatics and pharmacometrics since 2005. Author of more than 400
+publications (160 in international journals); co-founder of two
+spin-off companies and co-founder of the DDMoRe Foundation, which
+originated from the FP7-IMI DDMoRe project that he co-led as UNIPV PI
+and work-package leader. Former associate editor, IEEE Transactions on
+Biomedical Engineering. Chair of the Bioengineering Bachelor's and
+Master's degree programmes and Erasmus delegate; vice-chair of the PhD
+programme in Bioengineering and Bioinformatics. Since 2004 he has
+supervised 42 PhD students (several awarded the Italian national prize
+for best Bioengineering PhD thesis) and 16 postdoctoral researchers,
+including 4 PhD students hosted from other universities/countries, with
+international collaborations spanning Pamplona, Paris, Berlin, Athens,
+London, Leiden, Valencia and Porto Alegre. He has consulted for major
+pharmaceutical companies (including GSK, Janssen, Chiesi, Merck Serono,
+Menarini, Italfarmaco, Nerviano Medical Science, Servier, Angelini and
+Pharmacia) on PK/PD population modeling, PBPK modeling, and
+Bayesian/MCMC estimation methods. This would be his first MSCA-funded
+fellow (confirmed directly by him), extending an already substantial
+doctoral/postdoctoral supervision record to this specific scheme.
 
 Key research facilities, infrastructure and equipment:
-Research excellence at UNIPV is supported by internationally recognised
-infrastructures, including the Centre for Health Technologies (CHT),
-EUCENTRE, the National Centre for Oncological Hadrontherapy (CNAO) and
-several state-of-the-art core facilities dedicated to advanced
-biomedical imaging, spectroscopy, mass spectrometry, high-performance
-computing and advanced manufacturing technologies.
-[PLACEHOLDER -- specific facilities/software directly relevant to THIS
-project (e.g. NONMEM/Monolix/nlmixr or other PK/PD modeling software,
-compute resources available to Magni's own group) -- the general
-university-level description above does not substitute for this;
-confirm with Magni]
+PCs, servers and modeling/simulation software (NONMEM, Monolix, PK-Sim,
+MATLAB, R, Simulix, Python); access to a computing cluster hosted by
+UNIPV's Department of Mathematics; and access to the CINECA Leonardo
+EuroHPC supercomputer, one of Europe's largest HPC systems -- all
+confirmed directly by Magni as available to this project.
 
 Previous and current involvement in EU-funded research and training
-programmes/actions/projects (up to 5 relevant ones):
-UNIPV has built an outstanding Horizon Europe/Horizon 2020 portfolio:
-51 Marie Sklodowska-Curie Actions (MSCA, 28 ongoing), 27 European
-Research Council (ERC) grants (13 ongoing), 4 ongoing European
-Innovation Council (EIC) projects, and more than 50 collaborative
-European research and innovation projects (24 ongoing), corresponding
-to a European funding portfolio exceeding EUR 40 million.
-[PLACEHOLDER -- this is an aggregate, university-wide statistic. The
-template asks for "up to 5 relevant" named projects/actions -- ideally
-ones Magni's own group or department was involved in. Ask Magni for
-5 specific, named EU/national/international projects most relevant to
-pharmacometrics/PK-PD/AI, not just the university-level total.]
+programmes/actions/projects (up to 5 relevant ones, selected by Claude
+from a longer list Magni provided, for relevance to this project --
+Magni should confirm this selection or substitute his own preference):
+1. DDMoRe (2016, EU FP7-IMI; UNIPV PI and work-package leader) --
+   pharmacometric model repository/standards project, directly
+   foundational to population PK/PD modeling practice.
+2. Multiple industry-funded modeling/simulation grants supporting drug
+   development (GSK, Janssen, Chiesi, Italfarmaco, Menarini, Pharmacia)
+   -- directly relevant PK-PD/PBPK industry track record.
+3. Centro Nazionale "HPC, Big Data e Quantum Computing" - Spoke 8 (2022,
+   MIUR/National; Participant) -- relevant to this project's
+   computational/AI infrastructure needs.
+4. Refinement4 (2023, MIUR/National; PI) -- most recent nationally
+   funded project under his own PI leadership.
+[Three further national/regional Magni-led projects exist (circular
+economy and bio-waste valorisation, 2016-2020, Fondazione Cariplo/
+Regione Lombardia) but are outside this project's specific domain and
+were left out of this selection -- available if a 5th entry is wanted
+instead of #3 or #4.]
 
 ----------------------------------------------------------------
 5.2b ASSOCIATED PARTNER (outgoing phase, mandatory for GF) -- ICSI, USA

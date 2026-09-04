@@ -35,12 +35,13 @@ Guide_for_Applicants_MSCA_PF_2026.pdf)
     keywords 3-5 can come from any of the 8 panels. Look up the actual MSCA
     keyword list on the REA website before the portal session -- don't
     improvise free-text terms.
-[~] Panel/research field selection: 8 official panels are CHE, SOC, ECO,
-    ENG (Information Science and Engineering -- NOT "INF"), ENV, LIF, MAT,
-    PHY. Asked Magni (04/09/2026) -- he did NOT resolve it: his group
-    normally applies under ENG "because we are engineers" but says he's
-    "not sure it's the best solution" for this interdisciplinary
-    project. Genuinely Maria's own call now between LIF/ENG/CHE.
+[x] Panel/research field selection: LIF (Life Sciences) -- DECIDED
+    (04/09/2026). Magni didn't resolve it himself (his group defaults
+    to ENG but he wasn't sure it fit here); Claude recommended LIF
+    since the actual "beyond state of the art" claim is a
+    pharmacometrics one and the existing publication record (Frontiers
+    in Pharmacology, Molecular Pharmaceutics) is LIF-coded -- Maria
+    confirmed.
 [ ] Fellowship type: Global Postdoctoral Fellowship
 [ ] Outgoing host (associated partner, must be encoded in Part A): ICSI,
     Berkeley, USA

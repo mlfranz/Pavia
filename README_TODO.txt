@@ -14,8 +14,8 @@ in the ht_ospsuite repo has been removed again -- no duplication.
 NEXT STEPS FOR MARIA, IN ORDER
 ----------------------------------------------------------------
 
-1. DECIDE THE SCIENTIFIC PANEL (only you can make this call -- Magni
-   deferred it back to you, see below): LIF vs. ENG vs. CHE.
+1. DONE -- Scientific Panel decided: LIF (04/09/2026, Maria confirmed
+   Claude's recommendation).
 
 2. SEND THE ERICHSON EMAIL (Magni's side is now answered -- see below):
    - email_draft_erichson_request.txt -- attach
@@ -90,12 +90,12 @@ RESOLVED:
   interaction, weekly progress meetings, personal workstation, access
   to engineering faculty facilities (library, journals, rooms).
 
+RESOLVED SINCE:
+- Scientific Panel: Magni didn't resolve it (his group defaults to ENG
+  but he wasn't sure it fit here) -- Maria decided LIF on Claude's
+  recommendation (04/09/2026).
+
 STILL OPEN:
-- Scientific Panel: Magni did NOT resolve this -- his group normally
-  applies under ENG ("because we are engineers") but he explicitly says
-  he's "not sure it's the best solution in your case" for this
-  interdisciplinary project. This is now squarely Maria's decision
-  (LIF vs. ENG vs. CHE all remain plausible).
 - Duration (18 months): "good in principle," but he wants to see the
   actual milestones/deadlines before confirming properly -- send him
   the work plan (step 3 above).
@@ -142,7 +142,6 @@ STILL OPEN / BLOCKING
   (18 months, NERSC, title, PIC) -- needs Erichson's sign-off; his
   signing authority is genuinely uncertain (see conversation, though
   MSCA itself doesn't prescribe a required rank -- just a self-declaration).
-- Scientific Panel decision (Maria's call, see above).
 - Duration confirmation from Magni pending his review of the work plan.
 - DAAD extension's "Stellungnahme" -- check its actual requirements
   before assuming the MSCA letter can just be reused.
